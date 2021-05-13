@@ -1,4 +1,4 @@
-# Problems From The Discrete To The_Continuous Chapter 3 Probabilistic Packing Problem
+# Problems From The Discrete To The Continuous: Chapter 3 - Probabilistic Packing Problem
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem/blob/main/Chapter_3.ipynb)  
 "Problems from  the Discrete to  the Continuous" by Ross G. Pinsky describes a number of probability, number theory, graph  theory, and combinatoric problems.  
